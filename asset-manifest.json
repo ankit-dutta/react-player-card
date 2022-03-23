@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-player-card/static/css/main.649beba3.css",
+    "main.js": "/react-player-card/static/js/main.f93551ad.js",
+    "static/media/03668_HD.jpg": "/react-player-card/static/media/03668_HD.fbf229699462f01fdb12.jpg",
+    "index.html": "/react-player-card/index.html",
+    "main.649beba3.css.map": "/react-player-card/static/css/main.649beba3.css.map",
+    "main.f93551ad.js.map": "/react-player-card/static/js/main.f93551ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.649beba3.css",
+    "static/js/main.f93551ad.js"
+  ]
+}
